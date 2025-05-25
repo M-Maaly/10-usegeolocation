@@ -1,6 +1,6 @@
 # 🌍 Geolocation Tracker App
 
-A simple and fun React app that fetches your current GPS location and shows it on **OpenStreetMap** 🗺️. It also tracks how many times you've requested your position!
+**A simple and fun React app that fetches your current GPS location and shows it on **OpenStreetMap** 🗺️. It also tracks how many times you've requested your position!**
 
 ---
 
