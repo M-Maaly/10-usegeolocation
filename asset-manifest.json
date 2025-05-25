@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/10-usegeolocation/static/css/main.fc5c2c69.css",
+    "main.js": "/10-usegeolocation/static/js/main.7f4269dd.js",
+    "index.html": "/10-usegeolocation/index.html",
+    "main.fc5c2c69.css.map": "/10-usegeolocation/static/css/main.fc5c2c69.css.map",
+    "main.7f4269dd.js.map": "/10-usegeolocation/static/js/main.7f4269dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.7f4269dd.js"
+  ]
+}
